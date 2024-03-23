@@ -19,11 +19,11 @@ Welcome to my C programming projects section ! This repository contains a collec
 <details><summary>Click to expand</summary>
 <p>
 
-- [Hello World](./beginner/hello_world)
-- [Simple Calculator](./beginner/simple_calculator)
-- [Temperature Converter](./beginner/temperature_converter)
-- [Guessing Game](./beginner/guessing_game)
-- [To-Do List](./beginner/to_do_list)
+- [Hello World](./beginner_level/hello_world)
+- [Simple Calculator](./beginner_level/simple_calculator)
+- [Temperature Converter](./beginner_level/temperature_converter)
+- [Guessing Game](./beginner_level/guessing_game)
+- [To-Do List](./beginner_level/to_do_list)
 
 </p>
 </details>
