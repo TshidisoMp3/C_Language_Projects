@@ -14,7 +14,20 @@ Welcome to my C programming projects section ! This repository contains a collec
 <summary>Click to expand</summary>
 <p>
 
-- [Beginner Level Projects](#beginner-level-projects)
+- ### Beginner Level Projects
+
+<details><summary>Click to expand</summary>
+<p>
+
+- [Hello World](./beginner/hello_world)
+- [Simple Calculator](./beginner/simple_calculator)
+- [Temperature Converter](./beginner/temperature_converter)
+- [Guessing Game](./beginner/guessing_game)
+- [To-Do List](./beginner/to_do_list)
+
+</p>
+</details>
+
 
 - [Intermediate Level Projects](#intermediate-level-projects)
 
