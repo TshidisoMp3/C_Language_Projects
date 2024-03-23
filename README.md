@@ -5,10 +5,8 @@ Welcome to my C programming projects section ! This repository contains a collec
 ## Table of Contexts
 
 1. [Project List](#project-list)
-2. [Project Description](#project-descriptions)
-3. [How to run](#how-to-run)
-4. [Contributing](#contributing)
-5. [Licence] (#licence)
+2. [Contributing](#contributing)
+3. [Licence] (#licence)
 
 ### Project List
 
@@ -21,26 +19,6 @@ Welcome to my C programming projects section ! This repository contains a collec
 - [Intermediate Level Projects](#intermediate-level-projects)
 
 - [Advanced Level Projects](#advanced-level-projects)
-
-</p>
-</details>
-
-### Project Descriptions
-
-<details><summary>Click to expand</summary>
-<p>
-
-Here you'll find detailed descriptions of each project, including their goals, features, and implementation details.
-
-</p>
-</details>
-
-### How to Run
-
-<details><summary>Click to expand</summary>
-<p>
-
-Instructions on how to compile and run each project are provided in their respective README files within each project folder. Please refer to those instructions for specific guidance on running each project.
 
 </p>
 </details>
